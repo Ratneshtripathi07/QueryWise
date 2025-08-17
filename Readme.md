@@ -12,6 +12,17 @@ An intelligent document query system that enables users to upload PDF documents 
 - **Modern UI**: Clean, responsive interface with dark/light theme support
 - **Real-time Processing**: Concurrent question processing for improved performance
 - **Authentication**: Bearer token-based API security
+## UI
+
+### Screenshots
+
+![Home - light](Assets/2.png)
+
+![Home - dark](Assets/1.png)
+
+![Other options](Assets/3.png)
+
+![Contact](Assets/4.png)
 
 ## Architecture
 
