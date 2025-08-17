@@ -1,29 +1,47 @@
-# QueryWise : Live at https://query-wise.vercel.app/
+# 🚀 QueryWise-AI Powered Document Query System  
+🔗 Live Demo: [query-wise.vercel.app](https://query-wise.vercel.app/)
+
+> **AI-Powered Document Query System** – Upload PDFs or share document URLs and ask natural language questions to get instant, intelligent answers.  
+Built with a cutting-edge stack: **FastAPI** (backend) ⚡ + **Next.js** (frontend) 🎨.
+
+---
+
+## Key Features
+
+- **Document Processing** – Upload PDFs or provide document URLs for seamless ingestion  
+- **Google Drive Smart Links** – Auto-converts shareable Drive links into direct download links  
+- **AI-Powered Q&A** – Powered by **Google Gemini 2.0 Flash Lite** for intelligent responses  
+- **Vector Search** – Fast & accurate retrieval using **FAISS + Jina embeddings**  
+- **Persistent Caching** – Indexes cached with **SHA256 hashing** for lightning-fast reuse  
+- 🖥**Modern UI/UX** – Clean, responsive design with **dark & light mode support**  
+- **Real-time Processing** – Concurrent question handling for speed & scalability  
+- **Secure by Design** – Bearer token authentication & input validation  
+
+---
+
+## Why QueryWise?
+
+✔️ No more manual searching through huge PDFs  
+✔️ Get **answers with context** in seconds  
+✔️ Works for **research, legal docs, policies, contracts, study notes**  
+✔️ Fast ⚡, Secure 🔒, and Beautiful ✨  
+
+---
+
+## Sneak Peek (UI)
+
+| Light Mode 🌞 | Dark Mode 🌙 |
+|---------------|-------------|
+| ![Light UI](Assets/2.png) | ![Dark UI](Assets/1.png) |
+
+Additional Screens:  
+![Options](Assets/3.png)  
+![Contact](Assets/4.png)  
+
+---
 
 
-An intelligent document query system that enables users to upload PDF documents or provide document URLs and ask natural language questions to receive AI-powered answers. Built with a modern tech stack featuring FastAPI backend and Next.js frontend.
 
-## Features
-
-- **Document Processing**: Support for both PDF file uploads and URL-based document ingestion
-- **Google Drive Integration**: Automatic transformation of Google Drive sharing URLs to direct download links
-- **AI-Powered Q&A**: Uses Google's Gemini 2.0 Flash Lite model for intelligent question answering
-- **Vector Search**: FAISS-based vector storage with Jina embeddings for efficient document retrieval
-- **Persistent Caching**: Intelligent caching system that stores processed document indexes for faster subsequent queries
-- **Modern UI**: Clean, responsive interface with dark/light theme support
-- **Real-time Processing**: Concurrent question processing for improved performance
-- **Authentication**: Bearer token-based API security
-## UI
-
-### Screenshots
-
-![Home - light](Assets/2.png)
-
-![Home - dark](Assets/1.png)
-
-![Other options](Assets/3.png)
-
-![Contact](Assets/4.png)
 
 ## Architecture
 
