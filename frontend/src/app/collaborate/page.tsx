@@ -64,7 +64,7 @@ export default function CollaboratePage() {
             {/* GITHUB Text - Biggest on screen and clickable */}
             <div className="bg-card/90 rounded-3xl shadow-xl border border-border/20 px-10 py-8 sm:px-16 sm:py-12 mb-4 flex flex-col items-center justify-center max-w-2xl mx-auto">
               <a
-                href="https://github.com/team-innov8/querywise"
+                href="https://github.com/Ratneshtripathi07/QueryWise"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block"
