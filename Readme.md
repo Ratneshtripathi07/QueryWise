@@ -1,4 +1,5 @@
-# QueryWise
+# QueryWise : Live at https://query-wise.vercel.app/
+
 
 An intelligent document query system that enables users to upload PDF documents or provide document URLs and ask natural language questions to receive AI-powered answers. Built with a modern tech stack featuring FastAPI backend and Next.js frontend.
 
