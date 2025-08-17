@@ -1,0 +1,13 @@
+# requirements.txt
+langchain
+langchain-community
+langchain-google-genai
+google-generativeai
+python-dotenv
+PyMuPDF
+faiss-cpu
+fastapi
+uvicorn[standard]
+httpx
+python-multipart
+# Jina AI - Note: jina-client package doesn't exist, removed from requirements
