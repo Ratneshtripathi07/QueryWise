@@ -1,5 +1,13 @@
-# 🚀 QueryWise-AI Powered Document Query System  
-🔗 Live Demo: [query-wise.vercel.app](https://query-wise.vercel.app/)
+
+<p>
+  <img src="Assets/file_00000000e6d061fb9eaf4b47126f3843.png" alt="QueryWise Logo" width="180"/>
+</p>
+
+<h1>🚀 QueryWise – AI Powered Document Query System</h1>
+
+<p>
+  🔗 Live Demo: <a href="https://query-wise.vercel.app/"><b>🌐 Live Demo</b></a>
+</p>
 
 > **AI-Powered Document Query System** – Upload PDFs or share document URLs and ask natural language questions to get instant, intelligent answers.  
 Built with a cutting-edge stack: **FastAPI** (backend) ⚡ + **Next.js** (frontend) 🎨.
