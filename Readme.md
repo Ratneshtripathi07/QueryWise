@@ -5,6 +5,12 @@
 Built with a cutting-edge stack: **FastAPI** (backend) ⚡ + **Next.js** (frontend) 🎨.
 
 ---
+![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)
+![GitHub stars](https://img.shields.io/github/stars/Ratneshtripathi07/QueryWise?style=social)
+![License](https://img.shields.io/github/license/Ratneshtripathi07/QueryWise)
+![Next.js](https://img.shields.io/badge/Frontend-Next.js-000000?logo=next.js)
+![FastAPI](https://img.shields.io/badge/Backend-FastAPI-109989?logo=fastapi)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 
 ## Key Features
 
@@ -59,6 +65,8 @@ Additional Screens:
 - **State Management**: React hooks
 - **Theme Support**: next-themes for dark/light mode
 - **File Handling**: Native FormData API for file uploads
+
+
 
 ## Prerequisites
 
