@@ -76,6 +76,10 @@ BEARER_TOKEN=your_secure_bearer_token_here
 ```bash
 uvicorn main:app --reload --host 0.0.0.0 --port 8000
 ```
+5. Production ready deployment:
+```bash
+current setup uses Hugging Face Spaces (Docker build)
+```
 
 ### Frontend Setup
 
@@ -98,6 +102,11 @@ NEXT_PUBLIC_API_TOKEN=your_secure_bearer_token_here
 4. Start the development server:
 ```bash
 npm run dev
+```
+
+5. Production ready deployment:
+```bash
+current setup uses Vercel.
 ```
 
 The application will be available at `http://localhost:9002`.
