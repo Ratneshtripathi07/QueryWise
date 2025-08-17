@@ -13,7 +13,7 @@ Built with a cutting-edge stack: **FastAPI** (backend) ⚡ + **Next.js** (fronte
 - **AI-Powered Q&A** – Powered by **Google Gemini 2.0 Flash Lite** for intelligent responses  
 - **Vector Search** – Fast & accurate retrieval using **FAISS + Jina embeddings**  
 - **Persistent Caching** – Indexes cached with **SHA256 hashing** for lightning-fast reuse  
-- 🖥**Modern UI/UX** – Clean, responsive design with **dark & light mode support**  
+- **Modern UI/UX** – Clean, responsive design with **dark & light mode support**  
 - **Real-time Processing** – Concurrent question handling for speed & scalability  
 - **Secure by Design** – Bearer token authentication & input validation  
 
