@@ -187,13 +187,21 @@ npm run dev
 npm run typecheck
 ```
 
+## Use Cases
+
+- **Students**: Quickly summarize large PDFs and extract key points  
+- **Enterprises**: Analyze contracts, policies, and reports  
+- **Legal Professionals**: Retrieve specific clauses from long agreements  
+- **Developers**: Integrate smart document search into apps  
+
 ## Contributing
 
 1. Fork the repository
 2. Create a feature branch
 3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
+4. Optimize caching or embedding logic
+5. Add tests if applicable
+6. Submit a pull request
 
 ## License
 
@@ -202,3 +210,9 @@ This project is developed by team Innov8 as a solution to HackRX6.0 Hackathon by
 ## Support
 
 For questions or issues, please refer to the application's built-in FAQ section or contact the development team.
+
+---
+
+<p align="center"> 
+  Made with ❤️ by <b>Team Innov8</b> 
+</p>
