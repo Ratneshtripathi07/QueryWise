@@ -103,13 +103,15 @@ NEXT_PUBLIC_API_TOKEN=your_secure_bearer_token_here
 ```bash
 npm run dev
 ```
+The application will be available at `http://localhost:9002`.
+
 
 5. Production ready deployment:
 ```bash
 current setup uses Vercel.
 ```
 
-The application will be available at `http://localhost:9002`.
+
 
 ## API Endpoints
 
