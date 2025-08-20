@@ -112,7 +112,8 @@ export default function ContactPage() {
         </div>
 
         {/* Quick Contact Info */}
-        <div className="text-center mb-20">
+        {/* 
+                <div className="text-center mb-20">
           <Card className="bg-card/60 backdrop-blur-md border-border/20 shadow-xl shadow-primary/5 max-w-2xl mx-auto">
             <CardContent className="p-8">
               <h3 className="text-2xl font-bold mb-4">Need to reach the whole team?</h3>
@@ -128,6 +129,8 @@ export default function ContactPage() {
             </CardContent>
           </Card>
         </div>
+        
+        */}
         
         <footer className="text-center text-muted-foreground">
           <p className="text-lg">Built with ❤️ by team Innov8</p>
